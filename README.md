@@ -24,7 +24,6 @@ CSS assignment 2
           </div>
         </form>
       </section>
-
       <section class="boxes-section">
         <div class="box margin-box">
           <ul>
@@ -33,7 +32,6 @@ CSS assignment 2
             <li><a href="">Linux Search</a></li>
           </ul>
         </div>
-
         <div class="box margin-box">
           <ul>
             <li><a href="">Help!</a></li>
@@ -42,7 +40,6 @@ CSS assignment 2
             <li><a href="">Google! Logos</a></li>
           </ul>
         </div>
-
         <div class="box">
           <form class="subscribe-form">
             <label for="email">
